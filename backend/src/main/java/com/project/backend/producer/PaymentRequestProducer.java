@@ -1,4 +1,4 @@
-package com.project.backend.Producer;
+package com.project.backend.producer;
 
 import com.project.backend.dto.PaymentDTO;
 import lombok.AllArgsConstructor;

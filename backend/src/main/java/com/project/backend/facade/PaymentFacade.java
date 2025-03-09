@@ -1,6 +1,6 @@
 package com.project.backend.facade;
 
-import com.project.backend.Producer.PaymentRequestProducer;
+import com.project.backend.producer.PaymentRequestProducer;
 import com.project.backend.dto.PaymentDTO;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
